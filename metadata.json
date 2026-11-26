@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Try Out ASAS I Mapel IPA Kelas 7",
+  "description": "Aplikasi asesmen interaktif Try Out ASAS I IPA Kelas 7 Semester 1 dengan ilustrasi sains SVG, papan peringkat realtime, dashboard admin guru, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
